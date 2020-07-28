@@ -1,8 +1,8 @@
-### Hi there 👋, i'm Alex
-#### UX Designer/Developer
+
 ![UX Designer/Developer](https://pbs.twimg.com/profile_banners/118400678/1558874164/600x200)
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
+### Hi there 👋, i'm Alex
+#### UX Designer/Developer
 
 Skills: UXD / UR / User Testing / JS / HTML / CSS / Nux.js / Vue.js 
 
