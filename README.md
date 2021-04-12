@@ -4,7 +4,7 @@
 ### Hi there 👋, i'm Alex
 #### UX Designer/Developer
 
-Skills: UXD / UR / User Testing / JS / HTML / CSS / Nux.js / Vue.js 
+Skills: UXD / UR / User Testing / JS / HTML / CSS / Nuxt.js / Vue.js 
 
 - 🔭  I’m currently working on my freelance business website, utilising Nuxt.js and Strapi 
 - 🌱  I’m currently learning Nuxt.js, and Accessibility auditor certification 
